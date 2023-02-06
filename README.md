@@ -8,4 +8,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 
 | Branch                                                                                  | Version | Release Date |
 | --------------------------------------------------------------------------------------- |:-------:|:------------:|
-| [versions/1.0](https://github.com/kodecocodes/video-woc-materials/tree/versions/1.0) | 1.0     | 2023-02-03   |
+| [versions/1.0](https://github.com/kodecocodes/video-woc-materials/tree/versions/1.0) | 1.0     | 2023-02-07   |
